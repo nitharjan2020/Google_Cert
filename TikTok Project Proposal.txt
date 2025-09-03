@@ -1,0 +1,7 @@
+TikTok Project Proposal
+
+Overview: Tiktok seeks a way to use machine leanring to extract claims or proposistion with TikTok videos and comments and classify each data point as a claim or opinion
+
+Milestone                               Tasks                                   Deliverables                                    Stakeholders
+
+1. Plan:: 
